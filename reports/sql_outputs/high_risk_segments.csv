@@ -1,0 +1,16 @@
+age_group,limit_bucket,education,total_customers,default_customers,default_rate
+31-40,low,graduate_school,603,195,32.34
+21-30,low,high_school,727,233,32.05
+51-60,low,university,366,116,31.69
+41-50,low,high_school,885,277,31.3
+41-50,low,university,1232,385,31.25
+21-30,low,university,3213,977,30.41
+31-40,low,high_school,657,199,30.29
+31-40,low,university,1966,577,29.35
+51-60,low,high_school,510,147,28.82
+51-60,medium,university,161,46,28.57
+41-50,low,graduate_school,236,67,28.39
+51-60,medium,graduate_school,123,33,26.83
+21-30,low,graduate_school,1786,445,24.92
+41-50,medium,graduate_school,421,97,23.04
+51-60,high,graduate_school,259,56,21.62

@@ -1,0 +1,5 @@
+limit_bucket,total_customers,default_customers,default_rate,avg_credit_limit
+low,12498,3684,29.48,52780.6
+medium,7880,1535,19.48,158327.41
+high,9416,1394,14.8,317968.11
+very_high,206,23,11.17,598398.06
